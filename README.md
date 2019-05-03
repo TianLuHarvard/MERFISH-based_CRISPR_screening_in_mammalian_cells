@@ -12,8 +12,9 @@ This analysis software is used for segmenting images into cells, extracting barc
 
 ------Matlab sequence analysis------
 
-The Matlab sequence analysis for building the barcode to genetic variant lookup table is comprised of three scripts:
+The Matlab sequence analysis for building the barcode to genetic variant lookup table is comprised of three scripts
 
 
 Code authors
+
 Tian Lu [lutian125@gmail.com]
